@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883026100890",
+    "project_id": "student-activity-app-72960",
+    "storage_bucket": "student-activity-app-72960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883026100890:android:b79150ad2dd645e6051523",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXu-nQS3lbeUR68-XkFs0cTqKN0sJUQ6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
